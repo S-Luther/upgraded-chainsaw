@@ -5,9 +5,9 @@ Lets call this link a primer for the assignment to come:
   
 This assignment is meant to help you create a base which could be augmented and built on in the future. Whether it be for assignments to come, classes to come (for example AI), or even just for fun (if you think genetic algorithms are fun). 
 
-Essentailly what you will be building here is a world with creature objects in it. This creature object will need to be built in such a way that one day it could move, sense, eat, starve, etc. But to begin with it just needs to be created, die, and reproduce based on preset odds.'
+Essentailly, what you will be building here is a world with creature objects in it. This creature object will need to be built in such a way that one day it could move, sense, eat, starve, etc. But to begin with it just needs to be created, die, and reproduce based on preset odds.'
 
-So in terms of proper requirements this assignment must include, in both the uml diagram and code, the following:
+So in terms of proper requirements this assignment must include, in both the UML diagram and code, the following:
   1. At least three classes and/or interfaces (3 total not 3 of each). 
   2. At least two relationaships.
   3. A creature class with space for creature attributes and methods (eg. chances of replicating and dying).
