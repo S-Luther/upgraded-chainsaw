@@ -17,6 +17,8 @@ So in terms of proper requirements this assignment must include, in both the UML
   4. A world class with world and environment attributes and methods (eg. chances of spawning new creature without replication).
     Required World specific methods:
       1. createCreature()
+        1. This method might hit the names.txt file in this project to get a random name for your creatures.
+      2. spawnFood(), etc.
   6. Support for multiple creatures within the world.
   7. Main loop where these chances are 'rolled' for a number of times in a row.
 
