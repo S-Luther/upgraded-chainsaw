@@ -7,7 +7,7 @@ This assignment is meant to help you create a base which could be augmented and 
 
 Essentailly, what you will be building here is a world with creature objects in it. This creature object will need to be built in such a way that one day it could move, sense, eat, starve, etc. But to begin with it just needs to be created, die, and reproduce based on preset odds.'
 
-So in terms of proper requirements this assignment must include, in both the UML diagram and code, the following:
+So in terms of proper requirements this assignment must include the following:
   1. At least three classes and/or interfaces (3 total not 3 of each). 
   2. At least two relationaships.
   3. A creature class with space for creature attributes and methods (eg. chances of replicating and dying).
@@ -22,6 +22,4 @@ So in terms of proper requirements this assignment must include, in both the UML
   6. Support for multiple creatures within the world.
   7. Main loop where these chances are 'rolled' for a number of times in a row.
 
-Please use [LucidChart](https://www.lucidchart.com/pages/), [draw.io](https://app.diagrams.net/), or any other prefered diagramming tool to create your UML diagram.
-
-This assignment will be submitted in two pieces, you will need to create a UML diagram showing how you plan to implement a coded solution to this prompt as well as the actual code. The UML diagram will have a separate due date and submission dropbox within canvas while the code will be submitted here in github.
+If you would like you may diverge from the Biologic theming in this assignment but please keep the broad requirements intact. For example, follow requirements 1, 2, 3, etc. but not 1.1, 1.2, 4.1.1, etc.
